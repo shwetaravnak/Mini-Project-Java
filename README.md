@@ -1,1 +1,1 @@
-# Mini-Project-Java
+# Library Management System
